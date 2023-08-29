@@ -13,52 +13,52 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Serpa",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-08-28T09:49:16.598Z",
+      "notes": "dw",
+      "position": {
+        "lat": "37.84463220632694",
+        "lng": "-7.429607445283003"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Bouchamps-les-Craon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-28T09:54:40.001Z",
+      "notes": "Lala Laaaand!",
+      "position": {
+        "lat": "47.79028276311209",
+        "lng": "-1.0131561918949794"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Carlby",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-15T10:08:22.000Z",
+      "notes": "Cuba",
+      "position": {
+        "lat": "52.71123128531597",
+        "lng": "-0.44138667534107784"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Farthinghoe",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-29T11:54:22.764Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "52.055105066954674",
+        "lng": "-1.231770519346658"
       },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Almaty",
-      "country": "Kazakhstan",
-      "emoji": "🇰🇿",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 8754564
-    },
-    {
-      "cityName": "Moscow",
-      "country": "Russia",
-      "emoji": "🇷🇺",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 43453
+      "id": 73930389
     }
   ]
 }
